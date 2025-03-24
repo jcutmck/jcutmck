@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔨I'm currently working on optimizations to legacy EMR scripts and assisting with the future SDOH enterprise architecture<br>😶‍🌫️I'm currently learning developer-level deployment & management on AWS & OCI<br>🏥I'm actively interested in hearing others innovations & ideas for solving the more difficult challenges in healthcare technology<br>🙏I am proud to share that CORS & I finally get along!<br>🧪My latest home project is designing a 3D-printable, modular wall-hanging display shelf for collectibles<br>✈️Fun fact - I once took a 28-day travel lap around the world
+🔨I'm currently working on optimizations to legacy EMR scripts and assisting with the future SDOH enterprise architecture<br>😶‍🌫️I'm currently learning developer-level deployment & management on AWS & OCI<br>🏥I'm always interested in learning about innovations & new ideas for solving the difficult problems in our everday lives (especially Healthcare)<br>🙏I am proud to share that CORS & I finally get along!<br>🧪My latest home project is designing a 3D-printable, modular wall-hanging display shelf for collectibles<br>✈️Fun fact - I once took a 28-day travel lap around the world
 
 
 ## 🌐 Socials:
